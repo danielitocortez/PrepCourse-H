@@ -1,2 +1,1 @@
-# PrepCourse-H
-REPOSITORIO 2 de prueba de curso henry 
+este proyecto es como crear  un repositorio y clonarlo desde github a mi compu
